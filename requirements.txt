@@ -1,6 +1,6 @@
-matplotlib==3.10.1
-pandas==2.2.3
-seaborn==0.13.2
-statsmodels==0.14.4
-streamlit==1.42.2
-numpy==1.21.2
+matplotlib
+pandas
+seaborn
+statsmodels
+streamlit
+numpy
