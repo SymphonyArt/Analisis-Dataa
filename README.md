@@ -15,7 +15,7 @@ Beberapa kolom utama yang terdapat pada dataset:
 
 ---
 
-## Cara Menjalankan Dashboard (https://zqizwo4ckesbvvm4bm9bhpm.streamlit.app/)
+## Cara Menjalankan Dashboard 
 
 Untuk menjalankan **`dashboard.py`** yang telah dibuat di proyek ini, berikut adalah langkah-langkah yang perlu Anda ikuti:
 
